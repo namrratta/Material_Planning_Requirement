@@ -1,3 +1,4 @@
+![exception_handled_api](https://github.com/user-attachments/assets/dbb681b2-be9c-44a9-a853-977a9fabb5e8)
 # Bicycle MRP Generator
 
 
